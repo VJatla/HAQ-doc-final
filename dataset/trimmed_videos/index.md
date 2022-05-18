@@ -6,6 +6,7 @@
     - [Old way - Ph.D. proposal](#old-way---phd-proposal)
     - [New way - Ph.D. defense](#new-way---phd-defense)
         - [What is wrong with old way?](#what-is-wrong-with-old-way)
+        - [Creating the new dataset](#creating-the-new-dataset)
 
 <!-- markdown-toc end -->
 
@@ -38,15 +39,4 @@ is giving lot of false positives. This is due to,
    hand detections) framework.
    
 ### Creating the new dataset 
-For creating this new dataset we use,
-
-- **Typing**
-  - Keyboard detections
-  - Hand detections
-  - Typing ground truth
-  
-- **Writing**
-  - Hand detections
-  - Writing ground truth
-  
 [Click here for more details](./new_dataset.md)

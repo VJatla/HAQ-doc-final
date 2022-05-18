@@ -2,16 +2,6 @@
 permalink: index.html
 ---
 # HAQ: Human activity quantification
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
-
-- [HAQ: Human activity quantification](#haq-human-activity-quantification)
-    - [Introduction](#introduction)
-    - [Tasks](#tasks)
-        - [Current](#current)
-        - [Archived](#archived)
-
-<!-- markdown-toc end -->
 ## Introduction / Important links
 Human activity quantification uses state of the art (2019-2022) video activity 
 recognition algorithms and techniques to quantify typing and writing in
