@@ -6,7 +6,7 @@
     - [Old way - Ph.D. proposal](#old-way---phd-proposal)
     - [New way - Ph.D. defense](#new-way---phd-defense)
         - [What is wrong with old way?](#what-is-wrong-with-old-way)
-        - [Creating the new dataset](#creating-the-new-dataset)
+        - [[New way click here](./new_dataset.md)](#new-way-click-herenew_datasetmd)
 
 <!-- markdown-toc end -->
 
@@ -38,5 +38,4 @@ is giving lot of false positives. This is due to,
    reflect in size and shape to the ones created by running detection (keyboard and
    hand detections) framework.
    
-### Creating the new dataset 
-[Click here for more details](./new_dataset.md)
+### [New way click here](./new_dataset.md)
